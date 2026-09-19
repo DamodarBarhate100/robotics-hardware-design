@@ -1,0 +1,7 @@
+Reference,Qty,Value,DNP,Footprint,Datasheet
+BT1,1,9v,,TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,
+C1,1,10uf,,Capacitor_THT:CP_Radial_D5.0mm_P2.50mm,
+"D1,D2",2,LED,,LED_THT:LED_D5.0mm,
+"R1,R3",2,10k,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,
+"R2,R4",2,1k,,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,
+U1,1,NE555P,,Package_DIP:DIP-8_W7.62mm,http://www.ti.com/lit/ds/symlink/ne555.pdf
