@@ -1,0 +1,6 @@
+Reference,Qty,Value,DNP,Footprint,Datasheet
+"C1,C3",2,100nf,,Capacitor_SMD:C_0402_1005Metric,
+"C2,C4,C5",3,22uf,,Capacitor_SMD:CP_Elec_6.3x7.7,
+J1,1,USB_B_Micro,,Connector_USB:USB_Micro-B_Molex_47346-0001,
+J2,1,Screw_Terminal_01x02,,TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal,
+U1,1,AMS1117CD-3.3,,Package_TO_SOT_SMD:TO-252-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf
